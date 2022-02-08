@@ -1,0 +1,67 @@
+[   {
+    "month": "Месец",
+    "selectable": "selected disabled class='month'",
+    "value": ""
+    },
+    {
+        "month": "Януари",
+        "selectable": "unselected enabled class='month'",
+        "value": "Януари"
+        
+    },
+    {
+        "month": "Февруари",
+        "selectable": "unselected enabled class='month'",
+        "value": "Февруари"
+    },
+    {
+        "month": "Март",
+        "selectable": "unselected enabled class='month'",
+        "value": "Март"
+    },
+    {
+        "month": "Април",
+        "selectable": "unselected enabled class='month'",
+        "value": "Април"
+    },
+    {
+        "month": "Май",
+        "selectable": "unselected enabled class='month'",
+        "value": "Май"
+    },
+    {
+        "month": "Юни",
+        "selectable": "unselected enabled class='month'",
+        "value": "Юни"
+    },
+    {
+        "month": "Юли",
+        "selectable": "unselected enabled class='month'",
+        "value": "Юли"
+    },
+    {
+        "month": "Август",
+        "selectable": "unselected enabled class='month'",
+        "value": "Август"
+    },
+    {
+        "month": "Септември",
+        "selectable": "unselected enabled class='month'",
+        "value": "Септември"
+    },
+    {
+        "month": "Октомври",
+        "selectable": "unselected enabled class='month'",
+        "value": "Октомври"
+    },
+    {
+        "month": "Ноември",
+        "selectable": "unselected enabled class='month'",
+        "value": "Ноември"
+    },
+    {
+        "month": "Декември",
+        "selectable": "unselected enabled class='month'",
+        "value": "Декември"
+    }
+]

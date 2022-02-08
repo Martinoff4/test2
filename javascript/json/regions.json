@@ -1,0 +1,169 @@
+[   {
+    "name": "Област:",
+    "selectable": "selected disabled",
+    "selectable2": "unselected enabled",
+    "value": ""
+    },
+    {
+        "name": "Благоевград",
+        "selectable": " unselected enabled",
+        "selectable2": "unselected enabled",
+        "value": "Благоевград"
+    },
+    {
+        "name": "Бургас",
+        "selectable": " unselected enabled",
+        "selectable2": "unselected enabled",
+        "value": "Бургас"
+    },
+    {
+        "name": "Варна",
+        "selectable": " unselected enabled",
+        "selectable2": "unselected enabled",
+        "value": "Варна"
+    },
+    {
+        "name": "Велико Търново",
+        "selectable": " unselected enabled",
+        "selectable2": "unselected enabled",
+        "value": "Велико Търново"
+    },
+    {
+        "name": "Видин",
+        "selectable": " unselected enabled",
+        "selectable2": "unselected enabled",
+        "value": "Видин"
+    },
+    {
+        "name": "Враца",
+        "selectable": " unselected enabled",
+        "selectable2": "unselected enabled",
+        "value": "Враца"
+    },
+    {
+        "name": "Габрово",
+        "selectable": " unselected enabled",
+        "selectable2": "unselected enabled",
+        "value": "Габрово"
+    },
+    {
+        "name": "Добрич",
+        "selectable": " unselected enabled",
+        "selectable2": "unselected enabled",
+        "value": "Добрич"
+    },
+    {
+        "name": "Кърджали",
+        "selectable": " unselected enabled",
+        "selectable2": "unselected enabled",
+        "value": "Кърджали"
+    },
+    {
+        "name": "Кюстендил",
+        "selectable": " unselected enabled",
+        "selectable2": "unselected enabled",
+        "value": "Кюстендил"
+    },
+    {
+        "name": "Ловеч",
+        "selectable": " unselected enabled",
+        "selectable2": "unselected enabled",
+        "value": "Ловеч"
+    },
+    {
+        "name": "Монтана",
+        "selectable": " unselected enabled",
+        "selectable2": "unselected enabled",
+        "value": "Монтана"
+    },
+    {
+        "name": "Пазарджик",
+        "selectable": " unselected enabled",
+        "selectable2": "unselected enabled",
+        "value": "Пазарджик"
+    },
+    {
+        "name": "Перник",
+        "selectable": " unselected enabled",
+        "selectable2": "unselected enabled",
+        "value": "Перник"
+    },
+    {
+        "name": "Плевен",
+        "selectable": " unselected enabled",
+        "selectable2": "unselected enabled",
+        "value": "Плевен"
+    },
+    {
+        "name": "Пловдив",
+        "selectable": " unselected enabled",
+        "selectable2": "unselected enabled",
+        "value": "Пловдив"
+    },
+    {
+        "name": "Разград",
+        "selectable": " unselected enabled",
+        "selectable2": "unselected enabled",
+        "value": "Разград"
+    },
+    {
+        "name": "Русе",
+        "selectable": " unselected enabled",
+        "selectable2": "unselected enabled",
+        "value": "Русе"
+    },
+    {
+        "name": "Силистра",
+        "selectable": " unselected enabled",
+        "selectable2": "unselected enabled",
+        "value": "Силистра"
+    },
+    {
+        "name": "Сливен",
+        "selectable": " unselected enabled",
+        "selectable2": "unselected enabled",
+        "value": "Сливен"
+    },
+    {
+        "name": "Смолян",
+        "selectable": " unselected enabled",
+        "selectable2": "unselected enabled",
+        "value": "Смолян"
+    },
+    {
+        "name": "София",
+        "selectable": " unselected enabled",
+        "selectable2": "unselected enabled",
+        "value": "София"
+    },
+    {
+        "name": "Стара Загора",
+        "selectable": " unselected enabled",
+        "selectable2": "unselected enabled",
+        "value": "Стара Загора"
+    },
+    {
+        "name": "Търговище",
+        "selectable": " unselected enabled",
+        "selectable2": "unselected enabled",
+        "value": "Търговище"
+    },
+    {
+        "name": "Хасково",
+        "selectable": " unselected enabled",
+        "selectable2": "unselected enabled",
+        "value": "Хасково"
+    },
+    {
+        "name": "Шумен",
+        "selectable": " unselected enabled",
+        "selectable2": "unselected enabled",
+        "value": "Шумен"
+    },
+    {
+        "name": "Ямбол",
+        "selectable": " unselected enabled",
+        "selectable2": "unselected enabled",
+        "value": "Ямбол"
+    }
+]
