@@ -1,9 +1,12 @@
 <?php
 session_start();
 include_once "config.php";
+
+
 if(isset( $_SESSION['unique_id'])){
 $my_id = $_SESSION['unique_id'];
 $sql = "SELECT * FROM missions WHERE NOT user_id = {$my_id} AND visible = 'yes' ORDER BY default_id DESC";
+
 }
 else{
     $sql = "SELECT * FROM missions WHERE visible = 'yes' ORDER BY default_id DESC";
@@ -25,5 +28,3 @@ try {
   echo $err;
 }
 
-
-?>
